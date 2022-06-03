@@ -1,2 +1,3 @@
-# lession_auto
-my lession 111
+# stepik_auto_tests_course1
+
+my lession 1
