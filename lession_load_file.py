@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
 
-browser = webdriver.Chrome()
+browser = webdriver.Chrome() #test
 link = "http://suninjuly.github.io/file_input.html"
 browser.get(link)
 
